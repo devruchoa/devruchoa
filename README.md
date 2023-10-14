@@ -24,6 +24,8 @@ In my professional journey, I stand out for contributing to the technical improv
 
 ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devruchoa&theme=radical) 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=devruchoa&row=1&column=6&theme=radical&margin-w=15&margin-h=15) ![Trophies](https://github-profile-trophy.vercel.app/?username=devruchoa&row=1&column=6&theme=radical&margin-w=15&margin-h=15) 
+
+![Snake animation](https://github.com/devruchoa/devruchoa/blob/output/github-contribution-grid-snake.svg)
 <!---
 devruchoa/devruchoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
