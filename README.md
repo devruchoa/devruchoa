@@ -18,10 +18,12 @@ In my professional journey, I stand out for contributing to the technical improv
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruchoa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devruchoa) 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devruchoa&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devruchoa&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devruchoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devruchoa&theme=radical&hide_border=false"  width="400px" />
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devruchoa&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devruchoa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devruchoa&theme=radical) 
+![Trophies](https://github-profile-trophy.vercel.app/?username=devruchoa&row=1&column=6&theme=radical&margin-w=15&margin-h=15) ![Trophies](https://github-profile-trophy.vercel.app/?username=devruchoa&row=1&column=6&theme=radical&margin-w=15&margin-h=15) 
 <!---
 devruchoa/devruchoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
