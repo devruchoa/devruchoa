@@ -18,7 +18,7 @@ In my professional journey, I stand out for contributing to the technical improv
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruchoa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devruchoa) 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devruchoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devruchoa&theme=radical&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=devruchoa&theme=radical&hide_border=false&include_all_commits=true&count_private=true"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devruchoa&theme=radical&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=devruchoa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
